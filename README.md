@@ -1,0 +1,1 @@
+# Selenide [![Build status](https://ci.appveyor.com/api/projects/status/6vbjnk5wqtg3xoil/branch/master?svg=true)](https://ci.appveyor.com/project/asachiyigor/aqa-selenide-1-1/branch/master)
